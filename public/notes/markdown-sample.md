@@ -19,24 +19,23 @@ datetime-created: '2022-06-06 21:30'
 - [x] Checked
 
 ***
-*Italic*
-**Bold**
-==Highlight==
-~~Strikethrough~~
-Footnote[^1]
+*Italic*  
+**Bold**  
+==Highlight==  
+~~Strikethrough  ~~  
+Footnote[^1]  
 
 ---
-%%Comment%%
-`Inline Code`
+`Inline Code`  
  ```
  Code Block
 ```
 > Quatation
 
 ---
-| First | Second |
-| --- | --- |
-| aaa | AAA |
+| Left | Middle | Right |
+| :-- | :-: | --: | 
+| aaa | AAA | あああ |
 
 ---
 [Qiita](http://qiita.com/)
