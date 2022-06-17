@@ -3,3 +3,4 @@
 - [マークダウン](public/notes/markdown.md)
 - [git](public/notes/git.md)
 - [Obsidian](public/notes/obsidian.md)
+- [メシを食うたび強くなるマインクラフト](public/notes/meshikura.md)
