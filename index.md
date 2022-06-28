@@ -1,6 +1,11 @@
 # のらのきょうじゅのメモ帳（仮）
+- [今どうしてる？](public/notes/now.md)
 - [カレンダー](public/notes/calendar/calendar.md)
+- [言葉](public/notes/words.md)
 - [マークダウン](public/notes/markdown.md)
+- [タイピング](public/notes/typing.md)
 - [git](public/notes/git.md)
 - [Obsidian](public/notes/obsidian.md)
 - [メシを食うたび強くなるマインクラフト](public/notes/meshikura.md)
+- [YouTube](public/notes/youtube.md)
+- [Minecraft](public/notes/minecraft.md)

@@ -7,7 +7,7 @@ datetime-created: '2022-06-10 17:27'
 # メシを食うたび強くなるマインクラフト
 - [meshikura-mods](meshikura-mods.md)
 - [meshikura-foods](meshikura-foods.md)
-- 
+- [meshikura-part-kousei](meshikura-part-kousei.md)
 ## ToDo
 - [ ] うぷ主の立ち絵
 - [ ] マイクラのスキン
@@ -15,11 +15,15 @@ datetime-created: '2022-06-10 17:27'
 - [ ] バックアップ機構
 - [ ] YT Follower Counter
 
-## テストプレイ　メモ
+## 改善点　メモ
 - 食事シーンはまとめたほうがいいかも
+- 食事シーンは毎パート最後に
+- 料理シーン前に今回作るものを紹介
 - 一度に10種類（ハート1個分）食べるように
 - 1パートやること1つ
 - 序盤に作れる料理
+- MODのロゴ表示
+- ~~シリーズのロゴ制作~~ Done!!
 
 ```
 
