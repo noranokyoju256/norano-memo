@@ -6,4 +6,4 @@ datetime-created: '2022-06-06 21:43'
 # カレンダー
 ## Archives
 #### 2022
-- [june-2022](monthly/june-2022.md)
+- [June](monthly/june-2022.md)

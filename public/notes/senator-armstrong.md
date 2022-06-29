@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: ['アームストロング上院議員']
 tags: []
 datetime-created: '2022-06-28 21:19'
 ---

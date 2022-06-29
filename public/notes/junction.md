@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: ['ジャンクション']
 tags: []
 datetime-created: '2022-06-26 15:02'
 ---
