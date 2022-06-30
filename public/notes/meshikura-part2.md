@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: ['メシクラPart2']
 tags: []
 datetime-created: '2022-06-29 11:02'
 ---
