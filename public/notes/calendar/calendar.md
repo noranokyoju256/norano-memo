@@ -7,3 +7,4 @@ datetime-created: '2022-06-06 21:43'
 ## Archives
 #### 2022
 - [June](monthly/june-2022.md)
+- [July](monthly/july-2022.md)
