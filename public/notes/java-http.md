@@ -1,6 +1,6 @@
 ---
 aliases: ['JavaでHTTPリクエストする方法']
-tags: ['ToEdit']
+tags: ['Editing']
 datetime-created: '2022-06-30 22:10'
 ---
 
