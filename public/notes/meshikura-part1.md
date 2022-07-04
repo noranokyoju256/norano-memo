@@ -7,8 +7,8 @@ datetime-created: '2022-06-29 10:50'
 # メシクラPart1
 | Name   | Description                         |
 | ------ | ----------------------------------- |
-| Status | <font color="Orange">編集中</font> |
-| Youtube       | [動画のリンク](https://youtu.be/DmZZyCfa5jQ)                                    |
+| Status | 編集中 |
+| Youtube       | まだ                                    |
 
 - <font color="Red">作り直すことにした</font>
 
